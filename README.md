@@ -1,2 +1,2 @@
-# nodejs-awesome
-Here is awesome knowledge collection for nodejs, welcome to join us.
+# nodejs-practise
+Here is practise for nodejs
